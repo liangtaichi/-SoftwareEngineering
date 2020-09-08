@@ -2,7 +2,6 @@
  SoftwareEngineering Homework
 ## 个人简介
       - 姓名：梁鹏毅
-      - 博客名由来：常人说道，祖传代码就像是一座座“屎山”，代码重构无异于“净化屎山”。
       - 专业：网络工程
       - 学校：广东工业大学
       - 联系方式：liangpy@mail2.gdut.edu.cn
